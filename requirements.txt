@@ -1,9 +1,8 @@
 flask
-transformers
+transformers==2.2.0
 torch
 newspaper3k
 gunicorn
-dnspython
 sentencepiece
 bert-extractive-summarizer
 spacy
