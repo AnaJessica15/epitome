@@ -1,0 +1,9 @@
+flask
+transformers
+torch
+newspaper3k
+gunicorn
+dnspython
+sentencepiece
+bert-extractive-summarizer
+spacy
