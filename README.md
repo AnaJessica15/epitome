@@ -1,4 +1,4 @@
-# Epitome
+# Epitome - by Strive2Excel
 Legit info in a nutshell !
 
 ## Technology Stack
