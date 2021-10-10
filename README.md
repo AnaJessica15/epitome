@@ -22,6 +22,6 @@ To test the application run the following commands on your terminal:
 
 ```
 pip install -r requirements.txt
+
 python app.py
 
-'''
