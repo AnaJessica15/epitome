@@ -1,5 +1,5 @@
 flask
-transformers==2.2.0
+transformers==4.9.1
 torch
 newspaper3k
 gunicorn
