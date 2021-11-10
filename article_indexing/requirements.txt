@@ -1,2 +1,5 @@
-jina[devel,framework,nlp]==0.5.5.*
-kaggle
+jina
+pandas
+numpy
+torch
+transformers==4.12.3
