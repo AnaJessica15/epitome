@@ -3,4 +3,4 @@ transformers==4.9.1
 newspaper3k
 gunicorn
 sentencepiece
-
+torch
