@@ -34,6 +34,15 @@ To test the application run the following commands on your terminal:
 
 ```
 pip install -r requirements.txt
-
+```
+```
 python app.py
+```
 
+![epitome1](https://user-images.githubusercontent.com/82106569/141304745-86ae177b-928f-4317-8a6b-bbaf5aaf0757.jpeg)
+
+![apitome2](https://user-images.githubusercontent.com/82106569/141304765-481e60fa-343c-4d22-9ea9-3e77f25f232a.jpeg)
+
+![epitome3](https://user-images.githubusercontent.com/82106569/141304786-c827732a-952d-4799-bc37-fb35ec0afc79.jpeg)
+
+![s5](https://user-images.githubusercontent.com/82106569/141305002-f102f5d0-127e-40a7-ad22-53d3f2f2596f.png)
